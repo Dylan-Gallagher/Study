@@ -10,7 +10,7 @@
 - Energy stored by ATP (Adenosine Triphosphate)
 
 $$
-6H*2O + C_6H*{12}O_6 \longrightarrow H_2O + CO_2
+6H_2O + C_6H_{12}O_6 \longrightarrow H_2O + CO_2
 $$
 
 ## Aerobic Respiration
