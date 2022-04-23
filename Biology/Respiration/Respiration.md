@@ -9,9 +9,11 @@
   - lets energy get released slowly
 - Energy stored by ATP (Adenosine Triphosphate)
 
+`$$
+6H*2O + C_6H*{12}O_6 \longrightarrow H_2O + CO_2
+
 $$
-6H_2O + C_6H_{12}O_6 \longrightarrow H_2O + CO_2
-$$
+`
 
 ## Aerobic Respiration
 
@@ -27,7 +29,7 @@ $$
 - Takes place in the cytosol
 - Involves splitting glucose (six-carbon sugar) into three-carbon molecules
   - Small amount of energy released (ATP)
-- Produces pyruvic acid, which can be turned into pyruvate  
+- Produces pyruvic acid, which can be turned into pyruvate
   <img src="./Glycolysis.png" alt="Glycolysis">
 
 ### Stage 2
@@ -99,3 +101,4 @@ $$
 - Nowadays,, microorganisms are **immobilised**
 
 ## Detailed Study of Respiration
+$$
