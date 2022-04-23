@@ -101,6 +101,3 @@ $$
 - Nowadays,, microorganisms are **immobilised**
 
 ## Detailed Study of Respiration
-
-$$
-$$
