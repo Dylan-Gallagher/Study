@@ -30,7 +30,7 @@ $$
 - Involves splitting glucose (six-carbon sugar) into three-carbon molecules
   - Small amount of energy released (ATP)
 - Produces pyruvic acid, which can be turned into pyruvate
-  <img src="./Glycolysis.png" alt="Glycolysis">
+- <img src="./Glycolysis.png" alt="Glycolysis">
 
 ### Stage 2
 
