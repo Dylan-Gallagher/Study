@@ -9,11 +9,11 @@
   - lets energy get released slowly
 - Energy stored by ATP (Adenosine Triphosphate)
 
-`$$
+$$
 6H*2O + C_6H*{12}O_6 \longrightarrow H_2O + CO_2
 
+
 $$
-`
 
 ## Aerobic Respiration
 
@@ -101,4 +101,6 @@ $$
 - Nowadays,, microorganisms are **immobilised**
 
 ## Detailed Study of Respiration
+
+$$
 $$
