@@ -20,9 +20,7 @@
 - They lose energy as they get passed from acceptor to acceptor
 - Return to the original electron accpetor (recycled)
 - Their energy is used in the following reaction:
-  $$
-  ADP + energy + P \longrightarrow ATP + water
-  $$
+  $$ADP + energy + P \longrightarrow ATP + water$$
 
 * Since the elctrons are recycled, pathway 1 is said to be **cyclic**
 * ATP synthesis is also **cyclic electron flow**
@@ -34,15 +32,13 @@
 - They don't return to chlorophyll
 - They get passed along in the same way as in Pathway 1
 - 2 Electrons combine with NADP+ to create NADP-
-  $$ NADP^+ + 2e^- \longrightarrow NADP^-$$
+  $$NADP^+ + 2e^- \longrightarrow NADP^-$$
 - The chlorophyll needs new electrons (because the two electrons don't return)
 - Gains electrons by splitting water (**photolysis**)
 - **Photolysis** is the splitting of water by light
-  $$
-  2H_2O \longrightarrow 4H^+ + 4e^- + O_2
-  $$
+  $$2H_2O \longrightarrow 4H^+ + 4e^- + O_2$$
 - The protons ($H^+$) formed in **photolysis** are attracted to NADP-
-  $$ NADP^- + H^+ \longrightarrow NADPH$$
+  $$NADP^- + H^+ \longrightarrow NADPH$$
 
 ### End Products of Light Stage
 
@@ -61,13 +57,9 @@
 
 - Carbon dioxide enters the chloroplast
 - NADPH breaks down to supply electrons and H+ \* NADP+ is used in the light stage
-  $$
-  NAPDH \longrightarrow NADP^+ + 2\ electrons + H^+
-  $$
+  $$NAPDH \longrightarrow NADP^+ + 2\ electrons + H^+$$
 - Energy is supplied by the breakdown of ATP
 
-  $$
-  ATP + Water \longrightarrow ADP + P + energy
-  $$
+  $$ATP + Water \longrightarrow ADP + P + energy$$
 
 - Carbon dioxide gets turned into Glucose
